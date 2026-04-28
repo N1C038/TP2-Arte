@@ -1,0 +1,32 @@
+
+h1
+{
+    text-align: center;
+    color: cornflowerblue;
+    background-color: chartreuse;
+    
+}
+
+h2
+{
+color:cyan ;
+background-color:green;
+clear: both;
+width 10%;
+float: left
+display: inline-block;
+}
+
+h3
+{
+
+background-color: blue;
+clear: both;
+float: left;
+
+}
+img{
+float: center;    
+border: 3px solid black;
+clear: both;
+}
